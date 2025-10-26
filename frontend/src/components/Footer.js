@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 md:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div>
-            <h3 className="font-bold text-xl mb-4">Imprensa Online</h3>
+            <h3 className="font-bold text-xl mb-4">Profeta Diário</h3>
             <p className="text-gray-400 text-sm">
               Seu portal de notícias mais confiável. Informação de qualidade, sempre atualizada.
             </p>
@@ -54,7 +54,7 @@ export default function Footer() {
         </div>
         
         <div className="border-t border-gray-800 pt-6 pb-4 text-center text-sm text-gray-400">
-          <p>&copy; 2025 Imprensa Online. Todos os direitos reservados.</p>
+          <p>&copy; 2025 Profeta Diário. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>
