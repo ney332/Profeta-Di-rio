@@ -7,7 +7,7 @@ export default function Header({ categories = [] }) {
     <header className="site-header">
       <div className="px-4 md:px-8 py-6 flex flex-col md:flex-row items-center justify-between gap-4">
         <Link to="/" data-testid="site-logo">
-          <h1 className="site-logo">Imprensa Online</h1>
+          <h1 className="site-logo">Profeta Diário</h1>
         </Link>
         <div className="relative w-full md:w-96">
           <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 h-5 w-5" />
