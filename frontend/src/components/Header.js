@@ -33,7 +33,7 @@ export default function Header({ categories = [] }) {
               {category.nome}
             </Link>
           ))}
-          <Link to="/admin/login" className="nav-link" data-testid="nav-admin">Admin</Link>
+          <Link to="/admin/login" className="nav-link" data-testid="nav-admin">Login</Link>
         </div>
       </nav>
     </header>
